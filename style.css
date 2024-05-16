@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --azul00: #191970;
+    --azul-estranho: #6495ED;
+    --cor-text: #696969;
+}
+
+body {
+    background: var(--azul00);
+    color: var(--cor-text);
+}
